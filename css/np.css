@@ -1,0 +1,19 @@
+body {
+  margin: 25px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.space {
+  padding: 25px;
+}
+
+.vcenter{
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  transform: translateX(-25%);
+  transform: translateY(-30%);
+}
