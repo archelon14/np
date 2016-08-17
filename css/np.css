@@ -1,5 +1,6 @@
 body {
-  margin: 25px;
+  background-color: #ECF0F1;
+  margin: 5px;
 }
 
 a:hover {
@@ -16,4 +17,10 @@ a:hover {
   left: 25%;
   transform: translateX(-25%);
   transform: translateY(-30%);
+}
+
+.top-info{
+  height: 35%;
+  width: 100%;
+
 }
